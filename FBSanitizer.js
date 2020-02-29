@@ -2,7 +2,7 @@
 // @name         FBSanitizer
 // @namespace    arisu.ml
 // @version      0.1
-// @description  Remove that stupid fbclid so u can share link wit hfriends
+// @description  Remove that stupid fbclid so u can share link with friends
 // @author       Lychwee
 // @include      *
 // @grant        none
